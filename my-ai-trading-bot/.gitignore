@@ -1,0 +1,20 @@
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Model checkpoints and data
+*.h5
+*.pth
+models/
+training_data/
+
+# Docker image artifacts
+*.egg-info
+dist/
+build/ 

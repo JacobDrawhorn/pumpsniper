@@ -1,0 +1,5 @@
+solana
+pandas
+numpy
+scikit-learn
+# Add more dependencies as needed, e.g., PyTorch or TensorFlow for advanced modeling 
